@@ -4,7 +4,7 @@
 [![Documentation Status](https://readthedocs.org/projects/cookiecutter-django/badge/?version=latest)](https://cookiecutter-django.readthedocs.io/en/latest/?badge=latest)
 [![Updates](https://pyup.io/repos/github/thanasisxan/cookiecutter-geodjango/shield.svg)](https://pyup.io/repos/github/thanasisxan/cookiecutter-geodjango/)
 [![Join our Discord](https://img.shields.io/badge/Discord-cookiecutter-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/uFXweDQc5a)
-[![Code Helpers Badge](https://www.codetriage.com/cookiecutter/cookiecutter-django/badges/users.svg)](https://www.codetriage.com/cookiecutter/cookiecutter-django)
+[![Code Helpers Badge](https://www.codetriage.com/thanasisxan/cookiecutter-geodjango/badges/users.svg)](https://www.codetriage.com/thanasisxan/cookiecutter-geodjango)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 Powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter), Cookiecutter Django is a framework for jumpstarting
