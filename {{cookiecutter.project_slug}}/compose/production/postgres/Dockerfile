@@ -1,4 +1,4 @@
-FROM postgres:{{ cookiecutter.postgresql_version }}
+FROM postgis/postgis:{{ cookiecutter.postgresql_version }}-3.3
 
 COPY ./compose/production/postgres/maintenance /usr/local/bin/maintenance
 RUN chmod +x /usr/local/bin/maintenance/*
